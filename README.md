@@ -1,8 +1,9 @@
 ## Óla! meu nome é Elvison 👋
-- 👨‍💻 Progamador Iniciante
-- 🎓 Estudante da udemy
+- 👨‍💻 Aspirante a progamador
+- 🎓 Estudante de - Análise e desenvolvimento de sistemas.
 - 📓 Atualmente estudando 
-  HTML | CSS | JS
+      HTML | CSS | JS NA ONEBIT FULLSTACK JS
+
 ##
 <div>
    <a href="https://github.com/fpelvison">
