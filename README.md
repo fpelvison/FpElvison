@@ -2,7 +2,8 @@
 - 👨‍💻 Aspirante a progamador
 - 🎓 Estudante de  Análise e Desenvolvimento de Sistemas.
 - 📓 Atualmente estudando 
-      HTML | CSS | JS NA ONEBIT FULLSTACK JS
+      HTML | CSS | JS |
+      NA ONEBIT FULLSTACK JS
 
 ##
 <div>
