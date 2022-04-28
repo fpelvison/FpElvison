@@ -3,8 +3,7 @@
 - 🎓 Estudante de  Análise e Desenvolvimento de Sistemas.
 - 📓 Atualmente estudando 
       HTML | CSS | JS |
-      NA ONEBIT FULLSTACK JS
-
+ 
 ##
 <div>
    <a href="https://github.com/fpelvison">
